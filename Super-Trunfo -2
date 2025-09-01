@@ -1,0 +1,31 @@
+# Super Trunfo - Desafio
+
+Este é um projeto desenvolvido como parte do desafio da disciplina.
+
+## 🎯 Objetivo
+Implementar uma versão simples do jogo Super Trunfo em Python.
+
+## 🚀 Como executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/super-trunfo.git
+   ```
+2. Acesse a pasta:
+   ```bash
+   cd super-trunfo/src
+   ```
+3. Execute o jogo:
+   ```bash
+   python main.py
+   ```
+
+## 📂 Estrutura do projeto
+- `src/carta.py` → Classe Carta
+- `src/baralho.py` → Classe Baralho
+- `src/jogo.py` → Regras do jogo
+- `src/main.py` → Arquivo principal
+
+## ✅ Regras implementadas
+- Sorteio de cartas
+- Comparação de atributos
+- Determinação de vencedor da rodada
